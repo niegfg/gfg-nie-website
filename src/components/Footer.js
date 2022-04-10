@@ -17,7 +17,7 @@ const Footer = () => {
                     <li>
                       <a href="#">About</a>
                     </li>
-                    
+
                   </ul>
                 </div>
 
@@ -30,7 +30,7 @@ const Footer = () => {
                     <li>
                       <a href="#">About</a>
                     </li>
-                   
+
                   </ul>
                 </div>
 
@@ -43,7 +43,7 @@ const Footer = () => {
                     <li>
                       <a href="#">About</a>
                     </li>
-                   
+
                   </ul>
                 </div>
 
@@ -71,9 +71,7 @@ const Footer = () => {
               </div>
               <hr />
               <div className="mt-5">
-                <p className="main-hero-para text-center w-100">
-                  Copyright @ 2022 GeeksForGeeks. All rights reserved.
-                </p>
+                <p style={{ textAlign: "center" }} className="mt-5"> Copyright &copy; {new Date().getFullYear()} NIE GFG Student Chapter | All Rights Reserved</p>
               </div>
             </div>
           </div>
