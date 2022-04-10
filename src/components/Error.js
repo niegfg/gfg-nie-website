@@ -1,10 +1,8 @@
-
-   
 import React from "react";
 import { NavLink } from "react-router-dom";
 
 const Error = () => {
-    
+
   return (
     <>
       <div id="notfound">

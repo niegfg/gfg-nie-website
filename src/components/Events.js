@@ -4,9 +4,9 @@ import Footer from './Footer'
 const Events = () => {
   return (
     <>
-    <Navbar/>
+      <Navbar />
       Events
-      <Footer/>
+      <Footer />
     </>
   )
 }
