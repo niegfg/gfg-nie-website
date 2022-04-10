@@ -12,10 +12,10 @@ const Error = () => {
           </div>
           <h2>WE ARE SORRY, PAGE NOT FOUND!</h2>
           <p>
-            THE PAGE YOU ARE LOOKING FOR MIGHT HAVE BEEN REMOVED HAD ITS NAME
-            CHANGED OR IS TEMPORARILY UNAVAILABLE.
+            THE PAGE YOU ARE LOOKING FOR DOES NOT EXIST.
           </p>
-          <NavLink to="/">back to homepage</NavLink>    </div>
+          <NavLink to="/">back to homepage</NavLink>
+        </div>
       </div>
     </>
   );

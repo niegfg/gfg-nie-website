@@ -3,12 +3,12 @@ import Navbar from './Navbar'
 import Footer from './Footer'
 const About = () => {
   return (
-      <>
-    <Navbar/>
-    <div>About</div>
-    <Footer/>
-      </>
-      
+    <>
+      <Navbar />
+      <div>About Us</div>
+      <Footer />
+    </>
+
   )
 }
 
